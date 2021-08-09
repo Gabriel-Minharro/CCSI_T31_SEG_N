@@ -24,6 +24,9 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 ## Plataforma de Colaboração e Desenvolvimento (Padrão da Disciplina)
 * [Google Colab](https://colab.research.google.com/) - Desenvolvimento *on-line* para Ciência de Dados
 
+## Repositório de Códigos (Github)
+* [Tutorial](https://github.com/geracaoti/comandos-git)
+* 
 ## Instalação do Ambiente Python (Opcional)
 * [Anaconda](https://docs.anaconda.com/anaconda/install/) - Pacote para desenvolvimento de aplicações de Ciência de Dados com Python.
 
