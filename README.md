@@ -3,7 +3,7 @@
 * **Dia:** SEGUNDA-FEIRA
 * **Período:** NOTURNO
 
-## Prof. Edson Melo de Souza, MSc
+## Prof. Dr. Edson Melo de Souza
 + e-mail: [souzaem@uni9.pro.br](mailto:souzaem@uni9.pro.br)
 + Currículo Acadêmico: [http://lattes.cnpq.br/2641658716558510](http://lattes.cnpq.br/2641658716558510)
 + LinkedIn: [souzaem](https://www.linkedin.com/in/souzaem/)
